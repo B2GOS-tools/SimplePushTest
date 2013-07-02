@@ -1,0 +1,20 @@
+{
+  "name": "Push Test",
+  "type": "privileged",
+  "description": "Testing push notifications",
+  "icons": {
+    "16": "/icon_16.png",
+    "128": "/icon_128.png"
+  },
+  "launch_path": "/index.html",
+	"messages": [
+	   { "push": "/index.html" },
+	   { "push-register": "/index.html" }
+	],
+	"permissions": {
+	  "push": {},
+	  "storage": {},
+	  "desktop-notification": {},
+	  "browser": {}
+	}
+}
