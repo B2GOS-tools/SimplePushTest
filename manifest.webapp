@@ -12,9 +12,6 @@
 	   { "push-register": "/index.html" }
 	],
 	"permissions": {
-	  "push": {},
-	  "storage": {},
-	  "desktop-notification": {},
-	  "browser": {}
+	  "push": {}
 	}
 }
