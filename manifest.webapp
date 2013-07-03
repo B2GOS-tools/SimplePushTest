@@ -12,6 +12,6 @@
 	   { "push-register": "/index.html" }
 	],
 	"permissions": {
-	  "push": {}
+	  "push": { "description": "You've been notified, sit" }
 	}
 }
